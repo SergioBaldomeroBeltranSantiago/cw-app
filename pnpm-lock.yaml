@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@fontsource/tiny5':
+        specifier: ^5.2.5
+        version: 5.2.5
       '@radix-ui/react-dialog':
         specifier: ^1.1.13
         version: 1.1.13(@types/react-dom@19.1.5(@types/react@19.1.4))(@types/react@19.1.4)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
@@ -159,6 +162,9 @@ packages:
 
   '@floating-ui/utils@0.2.9':
     resolution: {integrity: sha512-MDWhGtE+eHw5JW7lq4qhc5yRLS11ERl1c7Z6Xd0a58DozHES6EnNNwUWbMiG4J9Cgj053Bhk8zvlhFYKVhULwg==}
+
+  '@fontsource/tiny5@5.2.5':
+    resolution: {integrity: sha512-3w557WeMP1uRe5VRw3lyk4y4U2JXhQG7xsr7mdgPtMJlO0OXLew7hkg5fsrX0Mg6qZxdN133+n9NnhrJDbG1UA==}
 
   '@humanfs/core@0.19.1':
     resolution: {integrity: sha512-5DyQ4+1JEUzejeK1JGICcideyfUbGixgS9jNgex5nqkW+cY7WZhxBigmieN5Qnw9ZosSNVC9KQKyb+GUaGyKUA==}
@@ -2274,6 +2280,8 @@ snapshots:
       react-dom: 19.1.0(react@19.1.0)
 
   '@floating-ui/utils@0.2.9': {}
+
+  '@fontsource/tiny5@5.2.5': {}
 
   '@humanfs/core@0.19.1': {}
 

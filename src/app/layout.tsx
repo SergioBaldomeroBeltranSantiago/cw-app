@@ -4,6 +4,8 @@ import "./globals.css";
 import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
 import CwSidebar from "@/components/CwSidebar";
 import QueryProvider from "@/components/providers/QueryProvider";
+import React from "react";
+import "@fontsource/tiny5";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -28,13 +30,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gray-800`}
       >
         <QueryProvider>
           <SidebarProvider>
             <CwSidebar />
             <main>
-              <SidebarTrigger />
+              <SidebarTrigger className="text-gray-400" />
               {children}
             </main>
           </SidebarProvider>
