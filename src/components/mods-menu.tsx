@@ -7,7 +7,7 @@ export default function ModsMenu() {
 
   return (
     <div className="p-4">
-      <ul className="grid grid-cols-4 gap-4">
+      <ul className="grid grid-cols-2 sm:grid-cols-4 gap-4">
         {modsFiles.map((modFile) => (
           <ModsMenuItem name={modFile.file} key={modFile.file} />
         ))}
