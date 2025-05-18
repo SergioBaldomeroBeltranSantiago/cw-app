@@ -1,5 +1,9 @@
-import Image from "next/image";
+import ModsMenu from "@/components/mods-menu";
 
 export default function Home() {
-  return <div></div>;
+  return (
+    <div>
+      <ModsMenu />
+    </div>
+  );
 }
