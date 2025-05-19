@@ -2,7 +2,7 @@
 
 // import useModsFiles from "@/mod/hooks/use-mods-files";
 
-import { useEffect, useState } from "react";
+import useMods from "@/mod/hooks/use-mods";
 
 type ModCard = {
   name: string;
@@ -14,13 +14,7 @@ type ModCard = {
 export default function ModsMenu() {
   // const modsFiles = useModsFiles();
 
-  const [modFiles, setModFiles] = useState<ModCard[]>([]);
-
-  useEffect(() => {
-    fetch("/modFile.json")
-      .then((res) => res.json())
-      .then((data) => setModFiles(data));
-  }, []);
+  const modFiles = useMods();
 
   return (
     <div className="p-4">
@@ -28,7 +22,7 @@ export default function ModsMenu() {
         {/*{modsFiles.map((modFile) => (
           <ModsMenuItem name={modFile.file} key={modFile.file} />
         ))}*/}
-        {modFiles.map((mod) => (
+        {modFiles.map((mod: any) => (
           <ModsMenuItemAlt
             key={mod.name}
             name={mod.name}
