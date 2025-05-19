@@ -1,9 +1,9 @@
 "use client";
-
 // import useModsFiles from "@/mod/hooks/use-mods-files";
-
 import useMods from "@/mod/hooks/use-mods";
 import Image from "next/image";
+import { useSearchParams } from "next/navigation";
+import { useMemo } from "react";
 
 type ModCard = {
   name: string;
@@ -16,6 +16,20 @@ export default function ModsMenu() {
   // const modsFiles = useModsFiles();
 
   const modFiles = useMods();
+  const searchParams = useSearchParams();
+  const category = searchParams.get("category") ?? "";
+
+  const mods = useMemo(
+    () =>
+      category
+        ? modFiles.filter((mod: any) =>
+            mod.categories.some((categoryString: string) =>
+              categoryString.includes(category),
+            ),
+          )
+        : modFiles,
+    [category, modFiles],
+  );
 
   return (
     <div className="p-4">
@@ -23,7 +37,7 @@ export default function ModsMenu() {
         {/*{modsFiles.map((modFile) => (
           <ModsMenuItem name={modFile.file} key={modFile.file} />
         ))}*/}
-        {modFiles.map((mod: any) => (
+        {mods.map((mod: any) => (
           <ModsMenuItemAlt
             key={mod.name}
             name={mod.name}
