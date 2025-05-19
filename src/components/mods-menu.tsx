@@ -3,6 +3,7 @@
 // import useModsFiles from "@/mod/hooks/use-mods-files";
 
 import useMods from "@/mod/hooks/use-mods";
+import Image from "next/image";
 
 type ModCard = {
   name: string;
@@ -47,7 +48,9 @@ function ModsMenuItem({ name }: { name: string }) {
 function ModsMenuItemAlt({ name, icon, version, link }: ModCard) {
   return (
     <li className="border-2 rounded-sm flex flex-col items-center justify-center text-gray-400 p-2 border-gray-400 overflow-clip">
-      <img src={icon} alt="mod icon missing" className="w-16 h-16" />
+      <div className="size-16 relative">
+        <Image src={icon} alt="mod icon missing" fill />
+      </div>
       <span>{name}</span>
       <span>{version}</span>
       <a href={link} target="_blank" className="text-blue-500 underline">
