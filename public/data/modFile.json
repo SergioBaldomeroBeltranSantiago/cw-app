@@ -4,13 +4,90 @@
 		"version": "1.1.4",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/891/449/64/64/638332962331987353.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/alexs-caves/files/5162617",
-		"categories": ["adventure"]
+		"categories": ["Adventure", "Biomes", "Mobs", "World Gen"]
+	},
+	{
+		"name": "Alex's Delight",
+		"version": "1.5",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/467/198/64/64/637748653028908201.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/alexs-delight/files/5028450",
+		"categories": ["Addon", "Compatibility", "Food"]
+	},
+	{
+		"name": "Alex's Mobs",
+		"version": "1.22.8",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/543/777/64/64/637874731161865623.jpeg",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/5160697",
+		"categories": ["Mobs"]
+	},
+	{
+		"name": "Amendments",
+		"version": "1.20-1.2.8",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/951/632/64/64/638441223877296738_animated.gif",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/amendments/files/5467925",
+		"categories": ["Quality of Life", "Utility"]
+	},
+	{
+		"name": "AppleSkin",
+		"version": "1.20.2-2.5.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/47/527/64/64/636066936394500688.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/appleskin/files/4770831",
+		"categories": ["Utility"]
+	},
+	{
+		"name": "Ars Nouveau",
+		"version": "1.20.1-4.11.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/565/915/64/64/637924211543296813.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/ars-nouveau/files/5371927",
+		"categories": ["Adventure", "Mobs", "Magic"]
+	},
+	{
+		"name": "Ars Elemental",
+		"version": "1.20.1-0.6.5",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/473/347/64/64/637764918520290586.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/ars-elemental/files/5255908",
+		"categories": ["Addon", "Adventure", "Mobs", "Magic"]
 	},
 	{
 		"name": "AttributeFix",
 		"version": "1.20.1-21.0.4",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/981/435/64/64/638488257660151687.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/attributefix/files/4911084",
-		"categories": []
+		"categories": ["Bugfix"]
+	},
+	{
+		"name": "Balm",
+		"version": "1.20.1-7.3.6",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1107/117/64/64/638657111836546584.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/balm/files/5467600",
+		"categories": ["Dependency"]
+	},
+	{
+		"name": "Better Advancements",
+		"version": "1.20.1-0.4.2.10",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/106/654/64/64/636360849723336023.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/better-advancements/files/5454907",
+		"categories": ["User Interface"]
+	},
+	{
+		"name": "Butcher's Delight",
+		"version": "1.20.1 2.1.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/461/259/64/64/637740767647340445.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/butchers-delight/files/5228909",
+		"categories": ["Mobs", "Food"]
+	},
+	{
+		"name": "Citadel",
+		"version": "2.5.4-1.20.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/214/988/64/64/636995179309161946.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/citadel/files/5143956",
+		"categories": ["Dependency"]
+	},
+	{
+		"name": "Configured",
+		"version": "2.2.3",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/871/317/64/64/638288810833209348.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/configured/files/5105022",
+		"categories": ["Dependency"]
 	}
 ]
