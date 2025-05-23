@@ -152,5 +152,146 @@
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/973/773/64/64/638476553038779715.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/enders-delight/files/4760462",
 		"categories": ["Addon", "Food"]
+	},
+	{
+		"name": "Explorer's Compass",
+		"version": "1.3.3",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/392/538/64/64/637586809619523367.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/explorers-compass/files/4712194",
+		"categories": ["Adventure"]
+	},
+	{
+		"name": "Farmer's Cutting: Quark",
+		"version": "1.0.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1051/826/64/64/638581690144993533.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-quark/files/5588763",
+		"categories": ["Compatibility"]
+	},
+	{
+		"name": "Farmer's Delight",
+		"version": "1.2.4",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/396/11/64/64/637595005615179370.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/5051242",
+		"categories": ["Food"]
+	},
+	{
+		"name": "Fast Furnace",
+		"version": "8.0.2",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/164/243/64/64/636686097562167838.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/fastfurnace/files/5181098",
+		"categories": ["Utility"]
+	},
+	{
+		"name": "Fast Leaf Decay",
+		"version": "8.0.2",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/18/699/64/64/635683366119611662.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/files/5375681",
+		"categories": ["Utility"]
+	},
+	{
+		"name": "Fast Suite",
+		"version": "5.0.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/376/17/64/64/637551781740482627.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/fastsuite/files/4711435",
+		"categories": ["Utility"]
+	},
+	{
+		"name": "Fast Workbench",
+		"version": "8.0.4",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/164/244/64/64/636686097718417988.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/fastworkbench/files/5101229",
+		"categories": ["Utility"]
+	},
+	{
+		"name": "Framed Blocks",
+		"version": "9.3.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/337/942/64/64/637476252137998899.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/framedblocks/files/5399211",
+		"categories": ["Construction"]
+	},
+	{
+		"name": "GeckoLib",
+		"version": "4.4.9",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1081/393/64/64/638621132937140582.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/geckolib/files/5675221",
+		"categories": ["Dependency"]
+	},
+	{
+		"name": "Ice and Fire: Dragons",
+		"version": "2.1.13",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/190/975/64/64/636857615673605328.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files/5122408",
+		"categories": ["Adventure", "Mobs"]
+	},
+	{
+		"name": "Insane Lib",
+		"version": "1.13.5",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/363/790/64/64/637530344667712105.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/insanelib/files/5392944",
+		"categories": ["Adventure", "Mobs"]
+	},
+	{
+		"name": "Jade",
+		"version": "11.9.3",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/207/323/64/64/636965628804677340.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/jade/files/5390389",
+		"categories": ["User Interface"]
+	},
+	{
+		"name": "Just Enough Items",
+		"version": "15.20.0.105",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/29/69/64/64/635838945588716414.jpeg",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/jei/files/5846810",
+		"categories": ["User Interface", "Quality of Life"]
+	},
+	{
+		"name": "Lootr",
+		"version": "0.7.34.86",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1131/830/64/64/638691606432990450.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/lootr/files/5420132",
+		"categories": ["Adventure", "Quality of Life"]
+	},
+	{
+		"name": "Macaw's Brigdes",
+		"version": "3.0.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/237/234/64/64/637098539787193844.jpeg",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/macaws-bridges/files/5240518",
+		"categories": ["Construction"]
+	},
+	{
+		"name": "Macaw's Doors",
+		"version": "1.1.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/303/442/64/64/637372493411502504.jpeg",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/macaws-doors/files/5439224",
+		"categories": ["Construction"]
+	},
+	{
+		"name": "Macaw's Fences and Walls",
+		"version": "1.1.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/351/704/64/64/637506435866467167.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls/files/5050219",
+		"categories": ["Construction"]
+	},
+	{
+		"name": "Macaw's Furniture",
+		"version": "3.2.2",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/522/145/64/64/637842504492835910.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/macaws-furniture/files/5043321",
+		"categories": ["Construction"]
+	},
+	{
+		"name": "Macaw's Holidays",
+		"version": "1.1.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/922/691/64/64/638388433298976722.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/macaws-holidays/files/5635642",
+		"categories": ["Construction"]
+	}
+	,
+	{
+		"name": "Macaw's Lights and Lamps",
+		"version": "1.1.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1018/353/64/64/638544982594670903.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps/files/5450327",
+		"categories": ["Construction"]
 	}
 ]
