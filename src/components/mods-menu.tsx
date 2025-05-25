@@ -17,14 +17,14 @@ export default function ModsMenu() {
 
   const modFiles = useMods();
   const searchParams = useSearchParams();
-  const category = searchParams.get("category") ?? "";
+  const category = searchParams.get("category")?.toLowerCase() ?? "";
 
   const mods = useMemo(
     () =>
       category
         ? modFiles.filter((mod: any) =>
             mod.categories.some((categoryString: string) =>
-              categoryString.includes(category),
+              categoryString.toLowerCase().includes(category),
             ),
           )
         : modFiles,
