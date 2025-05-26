@@ -10,10 +10,11 @@ type ModCard = {
   icon: string;
   version: string;
   link: string;
-  recentlyUpdated: number | null;
-  version1dot21: number | null;
-  loaderNeoForge: number | null;
-  loaderFabric: number | null;
+  categories: readonly string[];
+  recentlyUpdated?: number;
+  version1dot21?: number;
+  loaderNeoForge?: number;
+  loaderFabric?: number;
 };
 
 export default function ModsMenu() {
@@ -42,13 +43,7 @@ export default function ModsMenu() {
           <ModsMenuItem name={modFile.file} key={modFile.file} />
         ))}*/}
         {mods.map((mod: ModCard) => (
-          <ModsMenuItem
-            key={mod.name}
-            name={mod.name}
-            icon={mod.icon}
-            version={mod.version}
-            link={mod.link}
-          />
+          <ModsMenuItem key={mod.name} modCard={mod} />
         ))}
       </ul>
     </div>
@@ -63,7 +58,9 @@ export default function ModsMenu() {
 //   );
 // }
 
-function ModsMenuItem({ name, icon, version, link }: ModCard) {
+function ModsMenuItem({ modCard }: { modCard: ModCard }) {
+  const { name, icon, version, link } = modCard;
+
   return (
     <li className="border-2 rounded-sm flex flex-col items-center justify-center text-gray-400 p-2 border-gray-400 overflow-clip">
       <div className="size-16 relative">
