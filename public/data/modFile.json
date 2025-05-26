@@ -285,13 +285,362 @@
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/922/691/64/64/638388433298976722.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/macaws-holidays/files/5635642",
 		"categories": ["Construction"]
-	}
-	,
+	},
 	{
 		"name": "Macaw's Lights and Lamps",
 		"version": "1.1.0",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/1018/353/64/64/638544982594670903.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps/files/5450327",
 		"categories": ["Construction"]
+	},
+	{
+		"name": "Macaw's Paintings",
+		"version": "1.0.5",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/364/231/64/64/637531433405150416.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/macaws-paintings/files/4848151",
+		"categories": ["Construction"]
+	},
+	{
+		"name": "Macaw's Paths and Pavings",
+		"version": "1.0.5",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/937/771/64/64/638416317989163538.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings/files/5341126",
+		"categories": ["Construction"]
+	},
+	{
+		"name": "Macaw's Roofs",
+		"version": "2.3.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/598/801/64/64/637977355903879047.jpeg",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/macaws-roofs/files/5078226",
+		"categories": ["Construction"]
+	},
+	{
+		"name": "Macaw's Trapdoors",
+		"version": "1.1.3",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/292/157/64/64/637324647329746340.jpeg",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors/files/5344662",
+		"categories": ["Construction"]
+	},
+	{
+		"name": "Macaw's Windows",
+		"version": "2.2.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/877/195/64/64/638302089747019943.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/macaws-windows/files/4961142",
+		"categories": ["Construction"]
+	},
+	{
+		"name": "Modonomicon",
+		"version": "1.77.3",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/567/136/64/64/637927203949622768.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/modonomicon/files/5786081",
+		"categories": ["Quality of Life", "Utility"]
+	},
+	{
+		"name": "Moonlight Lib",
+		"version": "1.77.3",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/402/662/64/64/637610797055895331.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/selene/files/5478857",
+		"categories": ["Dependency"]
+	},
+	{
+		"name": "Nature's Compass",
+		"version": "1.77.3",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/54/102/64/64/636131217371752080.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/natures-compass/files/4712189",
+		"categories": ["Adventure", "Biomes", "Quality of Life", "Utility"]
+	},
+	{
+		"name": "Nether Portal Fix",
+		"version": "13.0.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/33/283/64/64/635893403164870085.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/netherportalfix/files/4939735",
+		"categories": []
+	},
+	{
+		"name": "Nether Portal Fix",
+		"version": "13.0.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/33/283/64/64/635893403164870085.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/netherportalfix/files/4939735",
+		"categories": []
+	},
+	{
+		"name": "Nether's Delight",
+		"version": "4.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/397/613/64/64/637598857629083481.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/nethers-delight/files/4736227",
+		"categories": []
+	},
+	{
+		"name": "Not Enough Animations",
+		"version": "1.8.2",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/329/74/64/64/637454010542845990.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/5977991",
+		"categories": []
+	},
+	{
+		"name": "Occultism",
+		"version": "1.140.2",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/247/293/64/64/637162328727833986.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/occultism/files/5920163",
+		"categories": []
+	},
+	{
+		"name": "Ocean's Delight",
+		"version": "1.0.2",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/793/744/64/64/638151779574318595.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/oceans-delight/files/4652060",
+		"categories": []
+	},
+	{
+		"name": "Oh The Biomes We've Gone",
+		"version": "1.4.4",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1046/639/64/64/638574763263078635.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone/files/5932830",
+		"categories": []
+	},
+	{
+		"name": "Oh The Trees You'll Grow",
+		"version": "1.4.4",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1198/857/64/64/638775139519930532.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow/files/5693539",
+		"categories": []
+	},
+	{
+		"name": "Patchouli",
+		"version": "1.84",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1198/857/64/64/638775139519930532.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/patchouli/files/4966125",
+		"categories": []
+	},
+	{
+		"name": "Placebo",
+		"version": "1.84",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/134/260/64/64/636490526725752670.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/placebo/files/5414631",
+		"categories": []
+	},
+	{
+		"name": "Polymorph",
+		"version": "0.49.5",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/279/271/64/64/637277042531842540.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/polymorph/files/5372401",
+		"categories": []
+	},
+	{
+		"name": "Progressive Bosses",
+		"version": "3.9.7",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/459/13/64/64/637734250896677330.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/progressive-bosses/files/5317155",
+		"categories": []
+	},
+	{
+		"name": "Quark",
+		"version": "4.0-460",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/588/295/64/64/637958240318838626.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/quark/files/5594847",
+		"categories": []
+	},
+	{
+		"name": "Quark Delight",
+		"version": "1.0.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/934/790/64/64/638411179557549423.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/quark-delight/files/5052580",
+		"categories": []
+	},
+	{
+		"name": "Railcraft Reborn",
+		"version": "1.1.8",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/909/146/64/64/638361918379120178.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn/files/5898149",
+		"categories": []
+	},
+	{
+		"name": "Repurposed Structures",
+		"version": "7.1.15",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/255/455/64/64/637201901951380334.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/repurposed-structures/files/5331403",
+		"categories": []
+	},
+	{
+		"name": "Royal Variations",
+		"version": "1.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/965/866/64/64/638464816538177551.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/royal-variations/files/5196062",
+		"categories": []
+	},
+	{
+		"name": "Smart Brain Lib",
+		"version": "1.15",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/596/446/64/64/637972388178699939.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/smartbrainlib/files/5654964",
+		"categories": []
+	},
+	{
+		"name": "Sophisticated Backpacks",
+		"version": "3.20.5.1044",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/375/56/64/64/637549610342642859.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/5296475",
+		"categories": []
+	},
+	{
+		"name": "Sophisticated Core",
+		"version": "0.7.12.805",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/540/438/64/64/637866039314801108.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/files/5964801",
+		"categories": []
+	},
+	{
+		"name": "Sophisticated Storage",
+		"version": "0.11.3.977",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/540/438/64/64/637866039314801108.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage/files/5967533",
+		"categories": []
+	},
+	{
+		"name": "Sound Physics Remastered",
+		"version": "1.4.8",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/442/531/64/64/637694502660771592.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/5991549",
+		"categories": []
+	},
+	{
+		"name": "Supplementaries",
+		"version": "2.8.17",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/358/166/64/64/637518566737953306_animated.gif",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/5458843",
+		"categories": []
+	},
+	{
+		"name": "TerraBlender",
+		"version": "3.0.1.7",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/478/14/64/64/637773351522362655.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/terrablender/files/5378180",
+		"categories": []
+	},
+	{
+		"name": "Traveler's Titles",
+		"version": "4.0.2",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/407/305/64/64/637621970918314166.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/travelers-titles/files/5065825",
+		"categories": []
+	},
+	{
+		"name": "Twilight's Flavors & Delight",
+		"version": "2.0.11",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/829/455/64/64/638217869424491369.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/twilights-flavors-delight/files/5271010",
+		"categories": []
+	},
+	{
+		"name": "The Twilight Forest",
+		"version": "4.3.2508",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/14/212/64/64/635589178760357568.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/files/5468648",
+		"categories": []
+	},
+	{
+		"name": "Xaero's Minimap",
+		"version": "24.6.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/92/854/64/64/636258666554688823.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/5862235",
+		"categories": []
+	},
+	{
+		"name": "Xaero's World Map",
+		"version": "1.39.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/196/654/64/64/636886857118683130.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/5658224",
+		"categories": []
+	},
+	{
+		"name": "Yung's API",
+		"version": "4.0.5",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/881/136/64/64/638311022829381213.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/yungs-api/files/5331703",
+		"categories": []
+	},
+	{
+		"name": "Yung's Better Desert Temples",
+		"version": "3.0.3",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/881/113/64/64/638311014668815538.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples/files/4769439",
+		"categories": []
+	},
+	{
+		"name": "Yung's Better Dungeons",
+		"version": "4.0.4",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/881/111/64/64/638311013966535180.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons/files/5271360",
+		"categories": []
+	},
+	{
+		"name": "Yung's Better End Island",
+		"version": "2.0.6",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/881/124/64/64/638311019747754894.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island/files/5193815",
+		"categories": []
+	},
+	{
+		"name": "Yung's Better Jungle Temples",
+		"version": "2.0.5",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/881/122/64/64/638311019167898804.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples/files/5331760",
+		"categories": []
+	},
+	{
+		"name": "Yung's Better Mineshafts",
+		"version": "4.0.4",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/881/107/64/64/638311012004755859.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge/files/4769063",
+		"categories": []
+	},
+	{
+		"name": "Yung's Better Nether Fortresses",
+		"version": "2.0.6",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/881/118/64/64/638311018415562520.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses/files/5193465",
+		"categories": []
+	},
+	{
+		"name": "Yung's Better Ocean Monuments",
+		"version": "3.0.4",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/881/116/64/64/638311017813611458.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments/files/4883003",
+		"categories": []
+	},
+	{
+		"name": "Yung's Better Ocean Monuments",
+		"version": "4.0.3",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/881/109/64/64/638311012913164558.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds/files/4769083",
+		"categories": []
+	},
+	{
+		"name": "Yung's Better Witch Huts",
+		"version": "3.0.3",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/881/129/64/64/638311020526615087.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts/files/4769489",
+		"categories": []
+	},
+	{
+		"name": "Yung's Bridges",
+		"version": "4.0.3",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/881/134/64/64/638311021928949709.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/yungs-bridges/files/4769518",
+		"categories": []
+	},
+	{
+		"name": "Yung's Extras",
+		"version": "4.0.3",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/881/132/64/64/638311021194042194.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras/files/4769514",
+		"categories": []
+	},
+	{
+		"name": "Zeta",
+		"version": "1.0-24",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/941/302/64/64/638422437053245782.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/zeta/files/5597406",
+		"categories": []
 	}
 ]
