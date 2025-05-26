@@ -10,10 +10,10 @@ type ModCard = {
   icon: string;
   version: string;
   link: string;
-  recentlyUpdated: Number | null;
-  version1dot21: Number | null;
-  loaderNeoForge: Number | null;
-  loaderFabric: Number | null;
+  recentlyUpdated: number | null;
+  version1dot21: number | null;
+  loaderNeoForge: number | null;
+  loaderFabric: number | null;
 };
 
 export default function ModsMenu() {
@@ -26,7 +26,7 @@ export default function ModsMenu() {
   const mods = useMemo(
     () =>
       category
-        ? modFiles.filter((mod: any) =>
+        ? modFiles.filter((mod: ModCard) =>
             mod.categories.some((categoryString: string) =>
               categoryString.toLowerCase().includes(category),
             ),
@@ -41,8 +41,8 @@ export default function ModsMenu() {
         {/*{modsFiles.map((modFile) => (
           <ModsMenuItem name={modFile.file} key={modFile.file} />
         ))}*/}
-        {mods.map((mod: any) => (
-          <ModsMenuItemAlt
+        {mods.map((mod: ModCard) => (
+          <ModsMenuItem
             key={mod.name}
             name={mod.name}
             icon={mod.icon}
@@ -55,15 +55,15 @@ export default function ModsMenu() {
   );
 }
 
-function ModsMenuItem({ name }: { name: string }) {
-  return (
-    <li className="border-2 rounded-sm flex items-center justify-center text-gray-400 p-2 border-gray-400 overflow-clip">
-      {name}
-    </li>
-  );
-}
+// function ModsMenuItem({ name }: { name: string }) {
+//   return (
+//     <li className="border-2 rounded-sm flex items-center justify-center text-gray-400 p-2 border-gray-400 overflow-clip">
+//       {name}
+//     </li>
+//   );
+// }
 
-function ModsMenuItemAlt({ name, icon, version, link }: ModCard) {
+function ModsMenuItem({ name, icon, version, link }: ModCard) {
   return (
     <li className="border-2 rounded-sm flex flex-col items-center justify-center text-gray-400 p-2 border-gray-400 overflow-clip">
       <div className="size-16 relative">
