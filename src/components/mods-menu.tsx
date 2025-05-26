@@ -10,6 +10,10 @@ type ModCard = {
   icon: string;
   version: string;
   link: string;
+  recentlyUpdated: Number | null;
+  version1dot21: Number | null;
+  loaderNeoForge: Number | null;
+  loaderFabric: Number | null;
 };
 
 export default function ModsMenu() {
