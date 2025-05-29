@@ -1,5 +1,16 @@
 [
 	{
+		"name": "AddonsLib",
+		"version": "1.4",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1067/963/64/64/638602286026025717.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/addonslib/files/6393071",
+		"categories": ["Addons", 
+			"API and Library"
+		],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},{
 		"name": "Alex's Caves",
 		"version": "2.0.2",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/891/449/64/64/638332962331987353.png",
@@ -261,6 +272,15 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 0,
 		"loaderFabric": 0
+	},{
+		"name": "Embeddium",
+		"version": "0.3.31",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/893/778/64/64/638336829931216743.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/embeddium/files/5681725",
+		"categories": ["Performance"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
 	},
 	{
 		"name": "Ender's Delight",
@@ -268,6 +288,15 @@
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/973/773/64/64/638476553038779715.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/enders-delight/files/6474007",
 		"categories": ["Addons", "Farming", "Food"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},{
+		"name": "Entity Culling",
+		"version": "1.7.4",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/345/318/64/64/637492631463701682.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6355861",
+		"categories": ["Miscellaneous", "Utility and QoL"],
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
@@ -286,6 +315,15 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
+	},{
+		"name": "Farmer's Cutting: Twilight Forest",
+		"version": "1.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1108/423/64/64/638658825770764330.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-twilight-forest/files/5928515",
+		"categories": ["Biomes", "Farming", "Utility and QoL"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 0
 	},
 	{
 		"name": "Farmer's Cutting: Quark",
@@ -293,10 +331,9 @@
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/1051/826/64/64/638581690144993533.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-quark/files/5588763",
 		"categories": ["Farming", "Utility and QoL"],
-		"recentlyUpdated": "",
-		"version1dot21": "",
-		"loaderNeoForge": "",
-		"loaderFabric": ""
+		"version1dot21": 0,
+		"loaderNeoForge": 0,
+		"loaderFabric": 0
 	},
 	{
 		"name": "Farmer's Delight",
@@ -347,6 +384,15 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 0
+	},{
+		"name": "FerriteCore",
+		"version": "6.0.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/323/941/64/64/637438748346113688.jpeg",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/ferritecore/files/4810975",
+		"categories": ["Performance"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
 	},
 	{
 		"name": "Framed Blocks",
@@ -387,6 +433,15 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
+	},{
+		"name": "Jade Addons",
+		"version": "5.5.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/497/744/64/64/637814611670008374.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/jade-addons/files/6274674",
+		"categories": ["Addons", "Map and Information", "Utility and QoL"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 0
 	},
 	{
 		"name": "Just Enough Items",
@@ -469,6 +524,16 @@
 		"loaderFabric": 1
 	},
 	{
+		"name": "Macaw's Oh The Biomes You'll Go / We've Gone",
+		"version": "1.2.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1180/274/64/64/638753378581929137_animated.gif",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/macaws-byg-bwg/files/6396824",
+		"categories": ["Addons", "Cosmetic"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},
+	{
 		"name": "Macaw's Paintings",
 		"version": "1.0.5",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/364/231/64/64/637531433405150416.png",
@@ -517,6 +582,19 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
+	},{
+		"name": "ModernFix",
+		"version": "5.23.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/881/436/64/64/638311693460984164.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6548605",
+		"categories": [
+			"Performance",
+			"Server Utility",
+			"Utility and QoL"
+		],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
 	},
 	{
 		"name": "Modonomicon",
@@ -543,6 +621,16 @@
 		"loaderFabric": 1
 	},
 	{
+		"name": "My Nether's Delight",
+		"version": "1.8",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1036/230/64/64/638560666018816482.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight/files/6529919",
+		"categories": ["Cosmetic", "Farming", "Food"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 0
+	},
+	{
 		"name": "Nature's Compass",
 		"version": "1.11.2",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/54/102/64/64/636131217371752080.png",
@@ -566,16 +654,6 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
-	},
-	{
-		"name": "Nether's Delight",
-		"version": "4.0",
-		"icon": "https://media.forgecdn.net/avatars/thumbnails/397/613/64/64/637598857629083481.png",
-		"link": "https://www.curseforge.com/minecraft/mc-mods/nethers-delight/files/4736227",
-		"categories": ["Cosmetic", "Farming", "Food"],
-		"version1dot21": 0,
-		"loaderNeoForge": 0,
-		"loaderFabric": 0
 	},
 	{
 		"name": "Not Enough Animations",
@@ -807,6 +885,15 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
+	},{
+		"name": "Supplementaries Squared",
+		"version": "1.1.21",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/792/344/64/64/638149338838738749.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared/files/6280155",
+		"categories": ["Addons","Cosmetic"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
 	},
 	{
 		"name": "TerraBlender",
@@ -869,6 +956,15 @@
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/196/654/64/64/636886857118683130.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/6538337",
 		"categories": ["Map and Information", "Player Transport"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},{
+		"name": "Yeetus Experimentus",
+		"version": "2.3.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/561/302/64/64/637913385213961485.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/6538337",
+		"categories": ["Utility and QoL", "World Gen"],
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
