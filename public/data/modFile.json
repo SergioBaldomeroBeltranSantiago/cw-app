@@ -4,13 +4,37 @@
 		"version": "1.4",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/1067/963/64/64/638602286026025717.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/addonslib/files/6393071",
-		"categories": ["Addons", 
-			"API and Library"
-		],
+		"categories": ["Addons", "API and Library"],
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
-	},{
+	},
+	{
+		"name": "Advancement Plaques",
+		"version": "1.6.9",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/409/257/64/64/637624038913829647.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/advancement-plaques/files/6186385",
+		"categories": [
+			"Cosmetic",
+			"Map and Information",
+			"Miscellaneous",
+			"Utility and QoL"
+		],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 0
+	},
+	{
+		"name": "AI Improvements",
+		"version": "0.5.2",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/409/257/64/64/637624038913829647.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/4578262",
+		"categories": ["Mobs", "Server Utility"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 0
+	},
+	{
 		"name": "Alex's Caves",
 		"version": "2.0.2",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/891/449/64/64/638332962331987353.png",
@@ -72,6 +96,16 @@
 		"loaderFabric": 1
 	},
 	{
+		"name": "Architectury API",
+		"version": "9.2.14",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/313/420/64/64/637408811378175814.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/5137938",
+		"categories": ["API and Library"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},
+	{
 		"name": "Area Effect Clouds 3D",
 		"version": "1.0.4",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/1288/523/64/64/638837828487426766.png",
@@ -106,6 +140,21 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 0
+	},
+	{
+		"name": "Artifacts",
+		"version": "9.5.16",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/444/622/64/64/637699815276651872.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/artifacts/files/6399828",
+		"categories": [
+			"Armor, Tools and Weapons",
+			"Adventure and RPG",
+			"Cosmetic",
+			"Structures"
+		],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
 	},
 	{
 		"name": "AttributeFix",
@@ -148,12 +197,37 @@
 		"loaderFabric": 0
 	},
 	{
+		"name": "Catalogue",
+		"version": "1.8.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/871/330/64/64/638288815001830113.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/catalogue/files/4766090",
+		"categories": [
+			"API and Library",
+			"Map and Information",
+			"Miscellaneous",
+			"Utility and QoL"
+		],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},
+	{
 		"name": "Citadel",
 		"version": "2.6.1",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/214/988/64/64/636995179309161946.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/citadel/files/6002521",
 		"categories": ["API and Library", "Miscellaneous"],
 		"version1dot21": 0,
+		"loaderNeoForge": 1,
+		"loaderFabric": 0
+	},
+	{
+		"name": "Compact Machines",
+		"version": "6.0.3",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/10/602/64/64/635460270800375500.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/compact-machines/files/6000230",
+		"categories": ["Processing", "Storage", "Technology"],
+		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 0
 	},
@@ -196,6 +270,26 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 0
+	},
+	{
+		"name": "Cloth Config API",
+		"version": "11.1.1.136",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/282/467/64/64/637289313020452406.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/5729105",
+		"categories": ["API and Library"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},
+	{
+		"name": "Cupboard",
+		"version": "2.7",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/852/567/64/64/638255508280634753.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/cupboard/files/5470032",
+		"categories": ["Utility and QoL"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
 	},
 	{
 		"name": "Curios",
@@ -272,7 +366,8 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 0,
 		"loaderFabric": 0
-	},{
+	},
+	{
 		"name": "Embeddium",
 		"version": "0.3.31",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/893/778/64/64/638336829931216743.png",
@@ -291,12 +386,29 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
-	},{
+	},
+	{
 		"name": "Entity Culling",
 		"version": "1.7.4",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/345/318/64/64/637492631463701682.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6355861",
 		"categories": ["Miscellaneous", "Utility and QoL"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},
+	{
+		"name": "Equipment Compare",
+		"version": "1.3.7",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/476/686/64/64/637770200277803086.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/equipment-compare/files/4650073",
+		"categories": [
+			"Armor, Tools and Weapons",
+			"Cosmetic",
+			"Map and Information",
+			"Miscellaneous",
+			"Utility and QoL"
+		],
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
@@ -315,7 +427,8 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
-	},{
+	},
+	{
 		"name": "Farmer's Cutting: Twilight Forest",
 		"version": "1.0",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/1108/423/64/64/638658825770764330.png",
@@ -384,7 +497,8 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 0
-	},{
+	},
+	{
 		"name": "FerriteCore",
 		"version": "6.0.1",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/323/941/64/64/637438748346113688.jpeg",
@@ -396,13 +510,33 @@
 	},
 	{
 		"name": "Framed Blocks",
-		"version": "9.4.1",
+		"version": "0.7.15",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/337/942/64/64/637476252137998899.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/framedblocks/files/6297988",
 		"categories": ["Cosmetic"],
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
-		"loaderFabric": 0
+		"loaderFabric": 1
+	},
+	{
+		"name": "Framework",
+		"version": "9.4.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/871/312/64/64/638288810018379517.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/framework/files/6531428",
+		"categories": ["API and Library"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},
+	{
+		"name": "Fusion",
+		"version": "1.2.7b",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/835/860/64/64/638227854854712053.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/6453794",
+		"categories": ["API and Library", "Cosmetic"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
 	},
 	{
 		"name": "GeckoLib",
@@ -415,6 +549,26 @@
 		"loaderFabric": 1
 	},
 	{
+		"name": "Guard Ribbits",
+		"version": "1.0.7",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1125/955/64/64/638683447535252235.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/guard-ribbits/files/6281646",
+		"categories": ["Cosmetic", "Mobs"],
+		"version1dot21": 0,
+		"loaderNeoForge": 0,
+		"loaderFabric": 1
+	},
+	{
+		"name": "Iceberg",
+		"version": "1.1.25",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/425/207/64/64/637653794535451378.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/iceberg/files/5838149",
+		"categories": ["API and Library"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 0
+	},
+	{
 		"name": "Insane Lib",
 		"version": "1.20.2",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/363/790/64/64/637530344667712105.png",
@@ -425,6 +579,37 @@
 		"loaderFabric": 0
 	},
 	{
+		"name": "Item Borders",
+		"version": "1.2.2",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/417/257/64/64/637640874948180814.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/item-borders/files/5903326",
+		"categories": [
+			"Armor, Tools and Weapons",
+			"Adventure and RPG",
+			"Cosmetic",
+			"Miscellaneous",
+			"Utility and QoL"
+		],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 0
+	},
+	{
+		"name": "Item Highlighter",
+		"version": "1.1.9",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/426/859/64/64/637657810753408357.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/item-highlighter/files/4985588",
+		"categories": [
+			"Client-Only",
+			"Map and Information",
+			"Miscellaneous",
+			"Utility and QoL"
+		],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},
+	{
 		"name": "Jade",
 		"version": "11.13.1",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/207/323/64/64/636965628804677340.png",
@@ -433,7 +618,8 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
-	},{
+	},
+	{
 		"name": "Jade Addons",
 		"version": "5.5.0",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/497/744/64/64/637814611670008374.png",
@@ -452,6 +638,42 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
+	},
+	{
+		"name": "Legendary Tooltips",
+		"version": "1.4.5",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/438/697/64/64/637684634562173457.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips/files/4662781",
+		"categories": [
+			"Adventure and RPG",
+			"Armor, Tools and Weapons",
+			"Cosmetic",
+			"Miscellaneous",
+			"Utility and QoL"
+		],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 0
+	},
+	{
+		"name": "Loot Integrations",
+		"version": "4.4",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/531/625/64/64/637853939577730031.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/loot-integrations/files/6499143",
+		"categories": ["Adventure and RPG", "Server Utility"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},
+	{
+		"name": "Loot Integrations : Structory & Towers",
+		"version": "1.3",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1129/606/64/64/638688210753375425.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/loot-integrations-structory-towers/files/6510239",
+		"categories": ["Addons", "Structures"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 0
 	},
 	{
 		"name": "Lootr",
@@ -582,16 +804,29 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
-	},{
+	},
+	{
+		"name": "Max Health Fix",
+		"version": "12.0.3",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/393/46/64/64/637587851035916535_animated.gif",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/max-health-fix/files/5378283",
+		"categories": [
+			"Adventure and RPG",
+			"Armor, Tools and Weapons",
+			"Bug Fixes",
+			"Server Utility",
+			"Utility and QoL"
+		],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},
+	{
 		"name": "ModernFix",
 		"version": "5.23.0",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/881/436/64/64/638311693460984164.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6548605",
-		"categories": [
-			"Performance",
-			"Server Utility",
-			"Utility and QoL"
-		],
+		"categories": ["Performance", "Server Utility", "Utility and QoL"],
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
@@ -616,6 +851,16 @@
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/402/662/64/64/637610797055895331.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/selene/files/6507197",
 		"categories": ["API and Library"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},
+	{
+		"name": "MrCrayfish's Furniture Mod: Refurbished",
+		"version": "1.0.12",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/934/904/64/64/638411339753659456.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture/files/6272885",
+		"categories": ["Automation", "Cosmetic", "Food", "Storage", "Technology"],
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
@@ -666,6 +911,16 @@
 		"loaderFabric": 1
 	},
 	{
+		"name": "Not Enough Recipe Book",
+		"version": "0.4.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1231/887/64/64/638807848805542997_animated.gif",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook/files/5760231",
+		"categories": ["Miscellaneous", "Server Utility", "Utility and QoL"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},
+	{
 		"name": "Occultism",
 		"version": "1.141.4",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/247/293/64/64/637162328727833986.png",
@@ -686,6 +941,16 @@
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/793/744/64/64/638151779574318595.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/oceans-delight/files/4652060",
 		"categories": ["Food"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},
+	{
+		"name": "OctoLib",
+		"version": "0.5.0.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1040/229/64/64/638566006631831950_animated.gif",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/octo-lib/files/6274623",
+		"categories": ["API and Library"],
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
@@ -739,6 +1004,21 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
+	},
+	{
+		"name": "Prism",
+		"version": "1.0.5",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/279/271/64/64/637277042531842540.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/prism-lib/files/4650325",
+		"categories": [
+			"API and Library",
+			"Cosmetic",
+			"Miscellaneous",
+			"Utility and QoL"
+		],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 0
 	},
 	{
 		"name": "Progressive Bosses",
@@ -800,6 +1080,16 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 0
+	},
+	{
+		"name": "Ribbits",
+		"version": "3.0.4",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1013/839/64/64/638538895773776677.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/ribbits/files/6182692",
+		"categories": ["Cosmetic", "Mobs"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
 	},
 	{
 		"name": "Royal Variations",
@@ -877,6 +1167,16 @@
 		"loaderFabric": 1
 	},
 	{
+		"name": "Structory: Towers",
+		"version": "1.0.7",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/10/842/64/64/635468327818431130.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/structory-towers/files/5351596",
+		"categories": ["Adventure and RPG", "Cosmetic", "Mobs", "Structures"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},
+	{
 		"name": "Supplementaries",
 		"version": "3.1.30",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/358/166/64/64/637518566737953306_animated.gif",
@@ -885,12 +1185,13 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
-	},{
+	},
+	{
 		"name": "Supplementaries Squared",
 		"version": "1.1.21",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/792/344/64/64/638149338838738749.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared/files/6280155",
-		"categories": ["Addons","Cosmetic"],
+		"categories": ["Addons", "Cosmetic"],
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
@@ -921,6 +1222,16 @@
 		"loaderFabric": 0
 	},
 	{
+		"name": "Tom's Simple Storage Mod",
+		"version": "1.7.1",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/266/898/64/64/637234057062921445.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/toms-storage/files/6418133",
+		"categories": ["Storage", "Technology"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 0
+	},
+	{
 		"name": "Twilight's Flavors & Delight",
 		"version": "2.0.14",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/829/455/64/64/638217869424491369.png",
@@ -936,6 +1247,21 @@
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/14/212/64/64/635589178760357568.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/files/5468648",
 		"categories": ["Adventure and RPG", "Biomes", "Structures"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
+	},
+	{
+		"name": "Waystones",
+		"version": "14.1.13",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/1107/108/64/64/638657104456838765.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/waystones/files/6552631",
+		"categories": [
+			"Adventure and RPG",
+			"Magic",
+			"Player Transport",
+			"Server Utility"
+		],
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
@@ -959,7 +1285,18 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
-	},{
+	},
+	{
+		"name": "Xaero's Minimap & World Map - Waystones Compatibility",
+		"version": "1.0",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/847/598/64/64/638247062895610203.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-world-map-waystones-compability/files/4637926",
+		"categories": ["Map and Information"],
+		"version1dot21": 0,
+		"loaderNeoForge": 0,
+		"loaderFabric": 0
+	},
+	{
 		"name": "Yeetus Experimentus",
 		"version": "2.3.1",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/561/302/64/64/637913385213961485.png",
@@ -1083,6 +1420,16 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 0
+	},
+	{
+		"name": "Yung Structures Addon for Loot Integrations",
+		"version": "1.4",
+		"icon": "https://media.forgecdn.net/avatars/thumbnails/989/641/64/64/638502393632519068.png",
+		"link": "https://www.curseforge.com/minecraft/mc-mods/yung-structures-addon-for-loot-integrations/files/6510287",
+		"categories": ["Addons", "Adventure and RPG", "Structures"],
+		"version1dot21": 1,
+		"loaderNeoForge": 1,
+		"loaderFabric": 1
 	},
 	{
 		"name": "Zeta",
