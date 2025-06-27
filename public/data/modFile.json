@@ -75,17 +75,6 @@
 		"loaderNeoForge": 1,
 		"loaderFabric": 0
 	},
-
-	{
-		"name": "Alien Cat",
-		"version": "1.1.5",
-		"icon": "https://media.forgecdn.net/avatars/thumbnails/1161/831/64/64/638730719770308382.png",
-		"link": "https://www.curseforge.com/minecraft/mc-mods/alien-cat/files/6645770",
-		"categories": ["Armor, Tools and Weapons", "Adventure and RPG"],
-		"version1dot21": 1,
-		"loaderNeoForge": 1,
-		"loaderFabric": 0
-	},
 	{
 		"name": "Amendments",
 		"version": "2.19",
@@ -198,16 +187,6 @@
 		"loaderFabric": 1
 	},
 	{
-		"name": "Blueprint",
-		"version": "7.1.3",
-		"icon": "https://media.forgecdn.net/avatars/thumbnails/312/201/64/64/637404991289658535.png",
-		"link": "https://www.curseforge.com/minecraft/mc-mods/blueprint/files/6408581",
-		"categories": ["API and Library"],
-		"version1dot21": 1,
-		"loaderNeoForge": 1,
-		"loaderFabric": 1
-	},
-	{
 		"name": "Butcher's Delight",
 		"version": "2.1.0",
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/461/259/64/64/637740767647340445.png",
@@ -228,16 +207,6 @@
 			"Miscellaneous",
 			"Utility and QoL"
 		],
-		"version1dot21": 1,
-		"loaderNeoForge": 1,
-		"loaderFabric": 1
-	},
-	{
-		"name": "Cat Burguer",
-		"version": "1.0.3",
-		"icon": "https://media.forgecdn.net/avatars/thumbnails/1215/246/64/64/638793910044452844.png",
-		"link": "https://www.curseforge.com/minecraft/mc-mods/cat-burger/files/6432579",
-		"categories": ["Armor, Tools and Weapons", "Cosmetic"],
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
@@ -568,16 +537,6 @@
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 1
-	},
-	{
-		"name": "Gale's Bugcatching",
-		"version": "0.0.2",
-		"icon": "https://media.forgecdn.net/avatars/thumbnails/1120/470/64/64/638675353051260932.png",
-		"link": "https://www.curseforge.com/minecraft/mc-mods/gales-bugcatching/files/5916903",
-		"categories": ["Farming", "Mobs"],
-		"version1dot21": 0,
-		"loaderNeoForge": 0,
-		"loaderFabric": 0
 	},
 	{
 		"name": "GeckoLib",
@@ -1022,22 +981,6 @@
 		"icon": "https://media.forgecdn.net/avatars/thumbnails/588/685/64/64/637958998949519797.png",
 		"link": "https://www.curseforge.com/minecraft/mc-mods/placebo/files/6274231",
 		"categories": ["API and Library"],
-		"version1dot21": 1,
-		"loaderNeoForge": 1,
-		"loaderFabric": 0
-	},
-	{
-		"name": "Pet Cementery",
-		"version": "2.0",
-		"icon": "https://media.forgecdn.net/avatars/thumbnails/883/934/64/64/638317698886614983.png",
-		"link": "https://www.curseforge.com/minecraft/mc-mods/pet-cemetery/files/5228189",
-		"categories": [
-			"Adventure and RPG",
-			"Cosmetic",
-			"Magic",
-			"Mobs",
-			"Utility & QoL"
-		],
 		"version1dot21": 1,
 		"loaderNeoForge": 1,
 		"loaderFabric": 0
