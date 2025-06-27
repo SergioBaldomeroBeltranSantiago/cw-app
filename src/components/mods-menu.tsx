@@ -48,16 +48,13 @@ export default function ModsMenu() {
     </div>
   );
 }
-
-/*
-function ModsMenuItem({ name }: { name: string }) {
-  return (
-    <li className="border-2 rounded-sm flex items-center justify-center text-gray-400 p-2 border-gray-400 overflow-clip">
-      {name}
-    </li>
-  );
-}
-  */
+// function ModsMenuItem({ name }: { name: string }) {
+//   return (
+//     <li className="border-2 rounded-sm flex items-center justify-center text-gray-400 p-2 border-gray-400 overflow-clip">
+//       {name}
+//     </li>
+//   );
+// }
 
 function ModsMenuItem({ modCard }: { modCard: ModCard }) {
   const { name, icon, version, link } = modCard;
