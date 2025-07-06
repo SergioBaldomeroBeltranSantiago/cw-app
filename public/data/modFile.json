@@ -86,6 +86,16 @@
     "loaderFabric": 1
   },
   {
+    "name": "Apothic Attributes",
+    "version": "1.3.7",
+    "icon": "https://media.forgecdn.net/avatars/thumbnails/860/918/64/64/638267924628338335.png",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/apothic-attributes/files/5634071",
+    "categories": ["Adventure and RPG", "API and Library"],
+    "version1dot21": 1,
+    "loaderNeoForge": 1,
+    "loaderFabric": 0
+  },
+  {
     "name": "AppleSkin",
     "version": "2.5.1",
     "icon": "https://media.forgecdn.net/avatars/thumbnails/47/527/64/64/636066936394500688.png",
@@ -116,11 +126,11 @@
     "loaderFabric": 0
   },
   {
-    "name": "Ars Nouveau",
-    "version": "4.12.6",
-    "icon": "https://media.forgecdn.net/avatars/thumbnails/565/915/64/64/637924211543296813.png",
-    "link": "https://www.curseforge.com/minecraft/mc-mods/ars-nouveau/files/5894609",
-    "categories": ["Adventure", "Mobs", "Magic"],
+    "name": "Ars Additions",
+    "version": "1.6.7",
+    "icon": "https://media.forgecdn.net/avatars/thumbnails/947/837/64/64/638434513440786257.png",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ars-additions/files/5834672",
+    "categories": ["Addons", "Magic", "Storage", "Utility & QoL"],
 
     "version1dot21": 1,
     "loaderNeoForge": 1,
@@ -137,6 +147,28 @@
       "Adventure and RPG",
       "Magic"
     ],
+    "version1dot21": 1,
+    "loaderNeoForge": 1,
+    "loaderFabric": 0
+  },
+  {
+    "name": "Ars Ocultas",
+    "version": "1.2.2",
+    "icon": "https://media.forgecdn.net/avatars/thumbnails/872/644/64/64/638291695659906345.png",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ars-nouveau/files/5894609",
+    "categories": ["Magic"],
+
+    "version1dot21": 1,
+    "loaderNeoForge": 1,
+    "loaderFabric": 0
+  },
+  {
+    "name": "Ars Nouveau",
+    "version": "4.12.6",
+    "icon": "https://media.forgecdn.net/avatars/thumbnails/565/915/64/64/637924211543296813.png",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ars-nouveau/files/5894609",
+    "categories": ["Adventure", "Mobs", "Magic"],
+
     "version1dot21": 1,
     "loaderNeoForge": 1,
     "loaderFabric": 0
@@ -378,6 +410,16 @@
     "loaderFabric": 0
   },
   {
+    "name": "Easy Anvils",
+    "version": "8.0.2",
+    "icon": "https://media.forgecdn.net/avatars/thumbnails/776/208/64/64/638118115739130285.png",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/easy-anvils/files/5156621",
+    "categories": ["Cosmetic", "Utility & QoL"],
+    "version1dot21": 1,
+    "loaderNeoForge": 1,
+    "loaderFabric": 1
+  },
+  {
     "name": "Embeddium",
     "version": "0.3.31",
     "icon": "https://media.forgecdn.net/avatars/thumbnails/893/778/64/64/638336829931216743.png",
@@ -547,6 +589,26 @@
     "version1dot21": 1,
     "loaderNeoForge": 1,
     "loaderFabric": 1
+  },
+  {
+    "name": "Gateways to Eternity",
+    "version": "4.2.6",
+    "icon": "https://media.forgecdn.net/avatars/thumbnails/585/611/64/64/637952776300526311_animated.gif",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/gateways-to-eternity/files/5703251",
+    "categories": ["Adventure and RPG", "Magic"],
+    "version1dot21": 1,
+    "loaderNeoForge": 1,
+    "loaderFabric": 0
+  },
+  {
+    "name": "Gateways to Eternity - More Gateways",
+    "version": "1.1.1",
+    "icon": "https://media.forgecdn.net/avatars/thumbnails/1008/363/64/64/638531133151793794.png",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/gateways-to-eternity/files/5703251",
+    "categories": ["Addons", "Adventure and RPG", "Magic"],
+    "version1dot21": 0,
+    "loaderNeoForge": 0,
+    "loaderFabric": 0
   },
   {
     "name": "GeckoLib",
@@ -832,6 +894,16 @@
     "loaderFabric": 1
   },
   {
+    "name": "Min's Enchantments",
+    "version": "1.0.0",
+    "icon": "https://media.forgecdn.net/avatars/thumbnails/1112/998/64/64/638665610343098643.png",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/mins-enchantments/files/6524566",
+    "categories": ["Miscellaneous", "Utility and QoL"],
+    "version1dot21": 0,
+    "loaderNeoForge": 0,
+    "loaderFabric": 0
+  },
+  {
     "name": "ModernFix",
     "version": "5.23.0",
     "icon": "https://media.forgecdn.net/avatars/thumbnails/881/436/64/64/638311693460984164.png",
@@ -986,6 +1058,16 @@
     "loaderFabric": 1
   },
   {
+    "name": "Overweight Farming",
+    "version": "2.1.0",
+    "icon": "https://media.forgecdn.net/avatars/thumbnails/562/30/64/64/637915111485602566.png",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/overweight-farming/files/4739207",
+    "categories": ["Biomes", "Cosmetic", "Food"],
+    "version1dot21": 0,
+    "loaderNeoForge": 1,
+    "loaderFabric": 1
+  },
+  {
     "name": "Patchouli",
     "version": "84.1",
     "icon": "https://media.forgecdn.net/avatars/thumbnails/588/685/64/64/637958998949519797.png",
@@ -1039,6 +1121,16 @@
     "version1dot21": 0,
     "loaderNeoForge": 1,
     "loaderFabric": 0
+  },
+  {
+    "name": "Puzzles Lib",
+    "version": "8.1.32",
+    "icon": "https://media.forgecdn.net/avatars/thumbnails/776/232/64/64/638118144989284933.png",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/6387081",
+    "categories": ["API and Library"],
+    "version1dot21": 1,
+    "loaderNeoForge": 1,
+    "loaderFabric": 1
   },
   {
     "name": "Quark",
@@ -1215,6 +1307,16 @@
     "version1dot21": 1,
     "loaderNeoForge": 1,
     "loaderFabric": 1
+  },
+  {
+    "name": "Tickrate API",
+    "version": "4.0.0",
+    "icon": "https://media.forgecdn.net/avatars/thumbnails/1036/286/64/64/638560723283433876.png",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/tickrate-api/files/6542697",
+    "categories": ["API and Library"],
+    "version1dot21": 1,
+    "loaderNeoForge": 1,
+    "loaderFabric": 0
   },
   {
     "name": "Traveler's Titles",
