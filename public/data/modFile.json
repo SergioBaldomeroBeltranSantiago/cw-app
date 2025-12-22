@@ -606,26 +606,6 @@
     "loaderFabric": 1
   },
   {
-    "name": "FTB Library",
-    "version": "2001.2.12",
-    "icon": "https://media.forgecdn.net/avatars/thumbnails/972/575/64/64/638474885844428954.png",
-    "link": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/files/7296748",
-    "categories": ["API and Library"],
-    "version1dot21": 1,
-    "loaderNeoForge": 1,
-    "loaderFabric": 0
-  },
-  {
-    "name": "FTB Ultimine",
-    "version": "2001.2.12",
-    "icon": "https://media.forgecdn.net/avatars/thumbnails/972/578/64/64/638474886453116037.png",
-    "link": "https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge/files/6899418",
-    "categories": ["Armor, Tools and Weapons", "Server Utility"],
-    "version1dot21": 1,
-    "loaderNeoForge": 1,
-    "loaderFabric": 0
-  },
-  {
     "name": "Fusion",
     "version": "1.2.7b",
     "icon": "https://media.forgecdn.net/avatars/thumbnails/835/860/64/64/638227854854712053.png",
