@@ -757,6 +757,17 @@
     "loaderNeoForge": 1,
     "loaderFabric": 0
   },
+
+  {
+    "name": "Kotlin for Forge",
+    "version": "4.12.0",
+    "icon": "https://media.forgecdn.net/avatars/thumbnails/236/269/64/64/637091078382616109.png",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge/files/7291067",
+    "categories": ["API and Library"],
+    "version1dot21": 1,
+    "loaderNeoForge": 1,
+    "loaderFabric": 0
+  },
   {
     "name": "Just Enough Items",
     "version": "15.20.0.108",
