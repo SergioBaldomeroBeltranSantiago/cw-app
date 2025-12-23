@@ -189,16 +189,6 @@
     "loaderFabric": 1
   },
   {
-    "name": "bendy-lib",
-    "version": "4.0.0",
-    "icon": "https://media.forgecdn.net/avatars/thumbnails/1107/117/64/64/638657111836546584.png",
-    "link": "https://www.curseforge.com/minecraft/mc-mods/bendy-lib/files/4550371",
-    "categories": ["API and Library"],
-    "version1dot21": 0,
-    "loaderNeoForge": 0,
-    "loaderFabric": 1
-  },
-  {
     "name": "Better Advancements",
     "version": "0.4.2.10",
     "icon": "https://media.forgecdn.net/avatars/thumbnails/106/654/64/64/636360849723336023.png",
@@ -207,31 +197,6 @@
     "version1dot21": 1,
     "loaderNeoForge": 1,
     "loaderFabric": 1
-  },
-  {
-    "name": "Better Combat",
-    "version": "1.9.0",
-    "icon": "https://media.forgecdn.net/avatars/thumbnails/566/413/64/64/637925434672465483.png",
-    "link": "https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus/files/7287334",
-    "categories": [
-      "Adventure and RPG",
-      "API and Library",
-      "Armor, Tools and Weapons",
-      "Utility & QoL"
-    ],
-    "version1dot21": 1,
-    "loaderNeoForge": 1,
-    "loaderFabric": 1
-  },
-  {
-    "name": "Butcher's Delight",
-    "version": "2.1.0",
-    "icon": "https://media.forgecdn.net/avatars/thumbnails/461/259/64/64/637740767647340445.png",
-    "link": "https://www.curseforge.com/minecraft/mc-mods/butchers-delight/files/5228909",
-    "categories": ["Cosmetic", "Food", "Mobs"],
-    "version1dot21": 0,
-    "loaderNeoForge": 0,
-    "loaderFabric": 0
   },
   {
     "name": "Canary",
@@ -502,16 +467,6 @@
     "categories": ["Biomes", "Farming", "Utility and QoL"],
     "version1dot21": 1,
     "loaderNeoForge": 1,
-    "loaderFabric": 0
-  },
-  {
-    "name": "Farmer's Cutting: Quark",
-    "version": "1.0.0",
-    "icon": "https://media.forgecdn.net/avatars/thumbnails/1051/826/64/64/638581690144993533.png",
-    "link": "https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-quark/files/5588763",
-    "categories": ["Farming", "Utility and QoL"],
-    "version1dot21": 0,
-    "loaderNeoForge": 0,
     "loaderFabric": 0
   },
   {
@@ -1146,16 +1101,6 @@
     "loaderFabric": 0
   },
   {
-    "name": "playerAnimator",
-    "version": "1.0.2-rc1",
-    "icon": "https://media.forgecdn.net/avatars/thumbnails/588/418/64/64/637958435315527412.png",
-    "link": "https://www.curseforge.com/minecraft/mc-mods/playeranimator/files/4587214",
-    "categories": ["API and Library", "Cosmetic"],
-    "version1dot21": 1,
-    "loaderNeoForge": 1,
-    "loaderFabric": 0
-  },
-  {
     "name": "Polymorph",
     "version": "0.49.10",
     "icon": "https://media.forgecdn.net/avatars/thumbnails/279/271/64/64/637277042531842540.png",
@@ -1219,21 +1164,6 @@
     "categories": ["Cosmetic", "Ores and Resources"],
     "version1dot21": 0,
     "loaderNeoForge": 1,
-    "loaderFabric": 0
-  },
-  {
-    "name": "Quark Delight",
-    "version": "1.0.0",
-    "icon": "https://media.forgecdn.net/avatars/thumbnails/934/790/64/64/638411179557549423.png",
-    "link": "https://www.curseforge.com/minecraft/mc-mods/quark-delight/files/5052580",
-    "categories": [
-      "Addons",
-      "Armor, Tools and Weapons",
-      "Food",
-      "Utility and QoL"
-    ],
-    "version1dot21": 0,
-    "loaderNeoForge": 0,
     "loaderFabric": 0
   },
   {
